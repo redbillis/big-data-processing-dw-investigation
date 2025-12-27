@@ -1,0 +1,48 @@
+# Virtual environments
+venv/
+*.venv/
+
+# Environment files
+.env
+.env.*
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Tests
+.pytest_cache/
+.cache/
+
+# Type check / caches
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Notebooks outputs and checkpoints
+outputs/
+
+# Reports
+reports/
+
+# Data (raw datasets) - ignore large raw files by default
+data/raw/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Logs and local files
+*.log
+.DS_Store
+
+# Secrets
+secrets.yml
