@@ -35,6 +35,7 @@ reports/
 
 # Data (raw datasets) - ignore large raw files by default
 data/raw/
+data/processed/
 
 # IDEs and editors
 .vscode/
