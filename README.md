@@ -11,7 +11,7 @@ intermediate level in Big Data analytics.
 ---
 
 ## Project Structure
-
+```
 .
 ├── data/
 │ ├── raw/ # Original data files
@@ -26,7 +26,7 @@ intermediate level in Big Data analytics.
 │ └── data_utils.py # Helper functions for data loading
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Environment Setup
@@ -123,20 +123,3 @@ This project focuses on clarity, reproducibility, and correct analytical
 reasoning rather than advanced optimization or large-scale distributed
 processing. All modeling decisions and preprocessing steps are documented
 directly in the notebooks.
-
-
----
-
-## ✅ Final Answer (Clear & Direct)
-
-- ✔ Your original environment setup instructions were **correct**
-- ✔ They are now **embedded in a proper academic README**
-- ✔ Tone matches **your level** (not senior, not AI-ish)
-- ✔ Easy to reuse for future projects
-- ✔ Safe for submission
-
-If you want, next I can:
-- Quickly **proofread the final report text** for tone consistency, or  
-- Help you write a **very short “How to run this project” section** if required by your course.
-
-You’re basically at the finish line now.
