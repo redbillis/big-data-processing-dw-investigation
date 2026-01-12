@@ -27,9 +27,6 @@ dist/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Notebooks outputs and checkpoints
-outputs/
-
 # Reports
 reports/
 

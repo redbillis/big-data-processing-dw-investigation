@@ -101,6 +101,8 @@ Tools and Libraries
 The project uses the following main libraries:
 
 ```
+pyspark==3.5.1
+
 pandas
 
 numpy
